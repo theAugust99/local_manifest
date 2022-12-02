@@ -5,7 +5,7 @@
 <!--Trees-->
 <project path="device/motorola/nairo" name="SyberHexen/android_device_motorola_nairo.git" remote="github" revision="lineage-20.0" />
 <project path="device/motorola/sm7250-common" name="SyberHexen/android_device_motorola_sm7250-common.git" remote="github" revision="lineage-20.0" />
-<project path="muppets/proprietary/vendor/motorola" name="SyberHexen/muppets_proprietary_vendor_motorola.git" remote="github" revision="lineage-20.0" />
-<project path="android/kernel/motorola/sm7250" name="SyberHexen/android_kernel_motorola_sm7250.git" remote="github" revision="lineage-20.0" />
+<project path="vendor/motorola" name="SyberHexen/muppets_proprietary_vendor_motorola.git" remote="github" revision="lineage-20.0" />
+<project path="kernel/motorola/sm7250" name="SyberHexen/android_kernel_motorola_sm7250.git" remote="github" revision="lineage-20.0" />
 
 </manifest>
